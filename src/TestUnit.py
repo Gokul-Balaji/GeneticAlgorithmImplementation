@@ -1,5 +1,5 @@
 import unittest
-from src import Main as mx
+import Main as mx
 
 class TestGAFunctions(unittest.TestCase):
 
